@@ -4,6 +4,7 @@ import './index.css';
 
 //Jacky has huge thighgs
 //Irene is swole
+//BBB has nice knees
 // class Square extends React.Component {
 //     constructor(props) {
 //         super(props);
