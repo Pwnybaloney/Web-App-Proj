@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
+//Jacky has huge thighgs
 //Irene is swole
 // class Square extends React.Component {
 //     constructor(props) {
